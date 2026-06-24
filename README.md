@@ -44,6 +44,17 @@ Target Variable:
 
 ---
 
+## Dataset
+
+I used IBM's Telco Customer Churn dataset, a widely used benchmark dataset for customer retention and churn analysis.
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+The dataset contains information for 7,043 telecom customers, including demographics, subscribed services, contract information, billing details, and whether the customer eventually churned.
+
+---
+
 ## Dataset Snapshot
 
 - Total Customers: 7,043
